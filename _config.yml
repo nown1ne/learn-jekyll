@@ -4,4 +4,4 @@ description: >-
 author: "nownine"
 theme: jekyll-theme-hacker
 github: [metadata]
-baseeurl: "learn-jekyll"
+baseurl: "learn-jekyll"
