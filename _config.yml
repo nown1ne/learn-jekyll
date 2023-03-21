@@ -2,6 +2,6 @@ title: Learning Jekyll
 description: >-
   Learning Jekyll and liquid with mike dane
 author: "nownine"
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 github: [metadata]
-
+baseeurl: "learn-jekyll"
